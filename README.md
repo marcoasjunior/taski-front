@@ -1,24 +1,23 @@
-# taski-front
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Aplicação de criação de tarefas simples - front
 
-### Compiles and minifies for production
-```
-npm run build
+## Instalar
+
+```bash
+$ npm install
 ```
 
-### Lints and fixes files
-```
-npm run lint
+## Iniciar
+
+```bash
+$ npm run serve (vue-cli precisa estart instalado)
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Comentários
+
+- A parte do front estava bem no início, optei por usar Vuetify que é uma biblioteca de componentes do Vuejs
+- Optei por utilizar PWA também por já ter criado aplicações dessa forma e serve tanto para web quanto mobile
+
+
